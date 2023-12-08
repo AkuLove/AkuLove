@@ -1,8 +1,8 @@
-<h1><img src="https://media.giphy.com/media/xydGi3nSTlkqs/giphy.gif" width="80"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ---
-
-I'm Marat, Frontend developer from Vitebsk, Belarus <img src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="100"/>
+<p>Welcome to my page! </br>
+I'm Marat, Frontend developer from Vitebsk, Belarus
 
 ---
 
