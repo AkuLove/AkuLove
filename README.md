@@ -36,7 +36,7 @@ I'm Marat, Frontend developer from Vitebsk, Belarus <img src="https://i.gifer.co
 
 ![codewars](https://www.codewars.com/users/Aku_loveee/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub stats:
 
 <table>
       <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akulove&layout=compact&theme=vision-friendly-dark" />
